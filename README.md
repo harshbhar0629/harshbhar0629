@@ -19,18 +19,35 @@
         LinkedIn<a href="https://www.linkedin.com/in/harsh-bhardwaj-28491a249/"> Link</a>
     </li>
 </ul>
-    
-</h2>
 
 <!-- Profile Description -->
-<span style="color:#1E90FF;"><b>🌟 GSSoC'24 Top Contributor <a href="https://gssoc.girlscript.tech/leaderboard">LeaderBoard</a></b></span><br>
-<span style="color:#228B22;"><b>👑 Leetcode Knight <a href="https://leetcode.com/u/harshbhar_0629/">Leetcode</a> </b></span><br>
-<span style="color:#FF1493;"><b>⭐ 4⭐ on GeeksforGeeks <a href="https://www.geeksforgeeks.org/user/harshbhogui/">GFG</a></b></span><br>
-<span style="color:#8B008B;"><b>🎓 Master in Coding Ninjas </b></span><br>
+<span style="color:#1E90FF;"><b>🌟 GSSoC'24 Top Contributor | Tech Enthusiast</b></span><br>
+<span style="color:#228B22;"><b>👑 Leetcode Knight | Master Problem Solver</b></span><br>
+<span style="color:#FF1493;"><b>⭐ 4⭐ on GeeksforGeeks | Coding Ninja</b></span><br>
+<span style="color:#8B008B;"><b>🎓 Master in Coding Ninjas | DSA Expert</b></span><br>
 <span style="color:#FFD700;"><b>💻 C++ | JavaScript | MERN Stack | Full-Stack Developer</b></span><br>
-<span style="color:#32CD32;"><b>🌐 Explore My Projects on GitHub <a href="https://github.com/harshbhar0629/">GitHub</a></b></span><br>
+<span style="color:#32CD32;"><b>🌐 Explore My Projects on GitHub</b></span><br>
 <span style="color:#FF6347;"><b>🚀 Passionate about Open Source & Collaboration</b></span><br>
 <br> </br>
+
+<h1 align="center"> 🪶GSSoC Badges: </h1>
+
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+    <br></br>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
+</div>
+
 
 <!-- GitHub Stats Header -->
 <h1 align="center"> 📊 GitHub Stats: </h1>
