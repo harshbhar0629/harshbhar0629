@@ -1,6 +1,7 @@
 <h1 align="center"> 🌟 About Me: </h1>
 <h2>Hi there, I’m Harsh Bhardwaj 👋
     I'm a passionate MERN stack developer and an avid open-source contributor, ranked in the top 50 at GSSoC'24 and Hacktoberfest with 50+ merged PRs. I enjoy building innovative projects, including Tech-Treasure Hub, an EdTech platform, and Swarnim Bharat, showcasing India's heritage.
+    <br/>
 <ul>
     <li>
         🌱 Exploring advanced React.js and Node.js projects
@@ -15,6 +16,7 @@
         📫 Reach me at: harshbhar.0629@gmail.com
     </li>
 </ul>
+    
 </h2>
 
 <!-- Profile Description -->
