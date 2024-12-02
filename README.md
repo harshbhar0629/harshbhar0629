@@ -1,12 +1,12 @@
 <h1 align="center"> 🌟 About Me: </h1>
 
 <!-- Profile Description -->
-<span style="color:#1E90FF;"><b>🌟 GSSoC'24 Top Contributor | Tech Enthusiast</b></span><br>
-<span style="color:#228B22;"><b>👑 Leetcode Knight </b></span><br>
-<span style="color:#FF1493;"><b>⭐ 4⭐ on GeeksforGeeks</b></span><br>
-<span style="color:#8B008B;"><b>🎓 Master in Coding Ninjas | DSA Expert</b></span><br>
+<span style="color:#1E90FF;"><b>🌟 GSSoC'24 Top Contributor <a href="https://gssoc.girlscript.tech/leaderboard">LeaderBoard</a></b></span><br>
+<span style="color:#228B22;"><b>👑 Leetcode Knight <a href="https://leetcode.com/u/harshbhar_0629/">Leetcode</a> </b></span><br>
+<span style="color:#FF1493;"><b>⭐ 4⭐ on GeeksforGeeks <a href="https://www.geeksforgeeks.org/user/harshbhogui/">GFG</a></b></span><br>
+<span style="color:#8B008B;"><b>🎓 Master in Coding Ninjas </b></span><br>
 <span style="color:#FFD700;"><b>💻 C++ | JavaScript | MERN Stack | Full-Stack Developer</b></span><br>
-<span style="color:#32CD32;"><b>🌐 Explore My Projects on GitHub</b></span><br>
+<span style="color:#32CD32;"><b>🌐 Explore My Projects on GitHub <a href="https://github.com/harshbhar0629/">GitHub</a></b></span><br>
 <span style="color:#FF6347;"><b>🚀 Passionate about Open Source & Collaboration</b></span><br>
 <br> </br>
 
