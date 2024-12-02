@@ -2,8 +2,8 @@
 
 <!-- Profile Description -->
 <span style="color:#1E90FF;"><b>🌟 GSSoC'24 Top Contributor | Tech Enthusiast</b></span><br>
-<span style="color:#228B22;"><b>👑 Leetcode Knight | Master Problem Solver</b></span><br>
-<span style="color:#FF1493;"><b>⭐ 4⭐ on GeeksforGeeks | Coding Ninja</b></span><br>
+<span style="color:#228B22;"><b>👑 Leetcode Knight </b></span><br>
+<span style="color:#FF1493;"><b>⭐ 4⭐ on GeeksforGeeks</b></span><br>
 <span style="color:#8B008B;"><b>🎓 Master in Coding Ninjas | DSA Expert</b></span><br>
 <span style="color:#FFD700;"><b>💻 C++ | JavaScript | MERN Stack | Full-Stack Developer</b></span><br>
 <span style="color:#32CD32;"><b>🌐 Explore My Projects on GitHub</b></span><br>
