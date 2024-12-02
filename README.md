@@ -15,6 +15,9 @@
     <li>
         📫 Reach me at: harshbhar.0629@gmail.com
     </li>
+    <li>
+        <a href="https://www.linkedin.com/in/harsh-bhardwaj-28491a249/">LinkedIn</a>
+    </li>
 </ul>
     
 </h2>
