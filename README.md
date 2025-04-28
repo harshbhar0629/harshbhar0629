@@ -7,7 +7,7 @@
         🌱 Exploring advanced React.js and Node.js projects
     </li>
     <li>
-        🔭 Currently working on Tech-Treasure Hub    
+        🔭 Currently working on Full-Stack intern @Aliste Technologies.
     </li>
     <li>
     💬 Ask me about MERN stack, DSA, or Open Source        
