@@ -1,70 +1,72 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Harsh%20Bhardwaj&fontSize=70&animation=fadeIn" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;MERN+%2B+AWS+Specialist;GSSoC'24+Top+40+Ranker;LeetCode+Knight+(1920+Rating)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Developer;AWS+Cloud+Specialist;GSSoC'24+Top+40+Contributor" />
 </div>
 
 <p align="center">
-<a href="https://linkedin.com/in/harsh-bhardwaj-28491a249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://portfolio-website-s47o.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harsh-bhardwaj-28491a249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:harshbhar.0629@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/harshbhar_0629"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 ---
 
-## 🚀 Professional Synopsis
- I am a **Full-Stack Developer** [cite: 7] and high-performance competitive programmer.  Currently, as an Intern at **Aliste Technologies**, I have specialized in the **MERN Stack and AWS** [cite: 10, 13]  to engineer solutions that improved system efficiency by **10x** and accelerated backend APIs by **5.4x**[cite: 7]. 
+## 🚀 Professional Profile
+[cite_start]I am a performance-driven **MERN Stack Developer** and **Java Developer** [cite: 7, 29] [cite_start]with a passion for building scalable systems and solving complex algorithmic challenges[cite: 8]. [cite_start]Currently pursuing my BTech at **Jaypee University** with a **9.0 CGPA** [cite: 24, 25][cite_start], I specialize in optimizing backend architectures and cloud-native solutions[cite: 7, 13].
 
--  🛠️ **Current Focus:** Scaling real-time asset visibility systems and automated financial tracking[cite: 14, 15].
--  🏆 **Open Source:** Ranked in the **Top 40** out of 27,000+ participants in **GSSoC'24** with 2450 points[cite: 8, 18].
--  💡 **Problem Solving:** **LeetCode Knight** (1920+ rating) [cite: 44]  and **Coding Ninjas Master** (2500+ rating)[cite: 43].
+* [cite_start]💻 **MERN Dev:** Improved system efficiency by **10x** and made backend APIs **5.4x faster** at Aliste Technologies[cite: 7].
+* [cite_start]☕ **Java Dev & DSA:** Elite coder with a **1920+ LeetCode rating** [cite: 44, 48] [cite_start]and **Knight** status[cite: 44].
+* [cite_start]🏆 **Open Source:** Ranked in the **Top 40 out of 27,000+** participants in **GSSoC'24**[cite: 8, 18].
 
 ---
 
-##  🛠️ Tech Stack & Proficiency [cite: 29]
+## 🛠️ Tech Stack & Proficiency
 
-| Category | Tools & Technologies |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | C++, JavaScript, Java (Core), Python |
-| **Frontend** | React.js, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Django, AWS (EC2/S3) |
-| **Database** | MongoDB, MySQL |
-| **Specialized** | Data Structures & Algorithms, RESTful APIs |
+| **Java Development** | [cite_start]Core Java [cite: 29][cite_start], Data Structures & Algorithms [cite: 29][cite_start], MySQL [cite: 29] |
+| **MERN Stack** | [cite_start]MongoDB [cite: 29][cite_start], Express.js [cite: 29][cite_start], React.js [cite: 29][cite_start], Node.js [cite: 29] |
+| **Frontend** | [cite_start]Next.js [cite: 29][cite_start], Tailwind CSS [cite: 34][cite_start], JavaScript [cite: 29] |
+| **Cloud & DevOps** | [cite_start]AWS (S3/EC2) [cite: 7, 13][cite_start], Postman API Expert [cite: 21][cite_start], Git/GitHub [cite: 33, 39] |
 
 ---
 
-## 📈 High-Impact Experience
+## 📈 Impactful Experience
 
-### **Full-Stack Developer Intern |  Aliste Technologies** [cite: 10]
- *January 2025 – May 2025* [cite: 11]
+### **Full-Stack Developer Intern | [cite_start]Aliste Technologies** [cite: 10]
+[cite_start]*January 2025 – May 2025* [cite: 11]
 
-*  **System Optimization:** Engineered a Device Tracking System [cite: 14]  and redesigned operations dashboards [cite: 16] , resulting in a **10x boost** in operational efficiency[cite: 14].
-*  **Automation:** Developed an integrated Expense Tracker that replaced manual submissions, increasing processing speed by **90%**[cite: 15].
-*  **API Performance:** Optimized backend infrastructure to achieve a **5.4x improvement** in API response times[cite: 7].
+* [cite_start]**10x Efficiency Boost:** Engineered a real-time **Device Tracking System** that replaced manual logging and enabled real-time asset visibility[cite: 14].
+* **Backend Optimization:** Leveraged MERN and AWS to improve system efficiency by **10x**[cite: 7, 13].
+* [cite_start]**90% Process Automation:** Developed an integrated **Expense Tracker** that removed ad-hoc submissions and increased processing efficiency by over **90%**[cite: 15].
+* [cite_start]**Workflow Design:** Redesigned the primary operations dashboard to optimize daily workflows and accelerate internal decision-making[cite: 16].
 
 ---
 
 ## 💻 Featured Projects
 
-###  **Ed-Tech Platform (Tech-Treasure Hub)** [cite: 31]
-*  **Secure Infrastructure:** Implemented JWT authentication and Role-Based Access Control (RBAC), reducing account misuse by **90%**[cite: 35].
-*  **Fintech Integration:** Integrated **Razorpay Payment Gateway** [cite: 36]  and built a student-focused rating system[cite: 36].
+### [cite_start]**Ed-Tech Platform (MERN Stack)** [cite: 31, 32]
+* [cite_start]**Secure Architecture:** Implemented JWT authentication and strict RBAC, **reducing account misuse by 90%**[cite: 35].
+* **Fintech Integration:** Integrated **Razorpay Payment Gateway** and a student-focused rating system[cite: 36].
 
-###  **Swarnim Bharat** [cite: 37]
-*  **Engagement:** Integrated **Google Maps API** for navigation, leading to a **60% increase** in exploration time[cite: 41].
-*  **Accessibility:** Built a React platform with text-to-speech and interactive carousels for 50+ cultural sites[cite: 40].
+### **Swarnim Bharat (MERN Stack)** [cite: 37, 38]
+* [cite_start]**Interactive Navigation:** Integrated **Google Maps** to provide real-time nearby site suggestions, increasing exploration time by **60%**[cite: 41].
+* [cite_start]**Accessibility:** Built text-to-speech functionality and interactive carousels for 50+ cultural sites[cite: 40].
 
 ---
 
-## 🏆 Elite Achievements
+## 🏆 Global Rankings & Recognition
 
-*  **LeetCode Knight:** Global rating of **1920+** (Top 3.9% worldwide)[cite: 44].
-*  **Coding Ninjas Master:** **2500+ rating**, placing in the top 4.12% of all-time coders[cite: 43].
-*  **Arsh Goyal’s 30-Days-6-Companies:** Shortlisted in the **Top 115** out of 23,500+ participants[cite: 46].
-*  **Student of the Year:** Awarded for academic excellence (9.0 CGPA) and leadership at **Jaypee University**[cite: 22, 24, 25].
+* **LeetCode:** Knight Badge with a **1920+ Rating**, ranked in the **Top 3.9% worldwide**[cite: 44].
+* [cite_start]**Coding Ninjas:** Master Badge with a **2500+ Rating**, placed in the **Top 4.12% all-time**[cite: 43].
+* [cite_start]**GFG:** **4-star coder** with an 1800+ rating[cite: 45].
+* **GSSoC'24:** **Top Contributor** (Ranked #40) scoring 2450 points across 5+ projects[cite: 18].
+* [cite_start]**Arsh Goyal’s Challenge:** Top 115 out of 23,500+ participants in the **30-days-6-Companies Challenge**[cite: 46].
+* [cite_start]**Academic Excellence:** Awarded **Student of the Year** at Jaypee University[cite: 22].
 
 ---
 
